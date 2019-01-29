@@ -20,22 +20,11 @@ p {
     width: 100%;
     height: auto;
  }
-/*
-.googleCalendar{
-    position: relative;
-    height: 0;
-    width: 50%;
-    padding-bottom: 50%;
-}
 
-.googleCalendar iframe{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+#sidebarCollapse{
+    background: #9cb700;
+    border-color: #9cb700;
 }
-*/
 
 a,
 a:hover,
@@ -84,7 +73,7 @@ span {
 #sidebar {
     min-width: 250px;
     max-width: 250px;
-    background: #7386D5;
+    background: #9cb700;
     color: #fff;
     transition: all 0.3s;
 }
@@ -136,7 +125,7 @@ span {
 
 #sidebar .sidebar-header {
     padding: 20px;
-    background: #6d7fcc;
+    background: #9cb700;
 }
 
 #sidebar .sidebar-header strong {
@@ -167,7 +156,7 @@ span {
 #sidebar ul li.active>a,
 a[aria-expanded="true"] {
     color: #fff;
-    background: #6d7fcc;
+    background: #9cb700;
 }
 
 a[data-toggle="collapse"] {
@@ -185,7 +174,7 @@ a[data-toggle="collapse"] {
 ul ul a {
     font-size: 0.9em !important;
     padding-left: 30px !important;
-    background: #6d7fcc;
+    background: #9cb700;
 }
 
 ul.CTAs {
@@ -207,7 +196,7 @@ a.download {
 
 a.article,
 a.article:hover {
-    background: #6d7fcc !important;
+    background: #9cb700 !important;
     color: #fff !important;
 }
 
